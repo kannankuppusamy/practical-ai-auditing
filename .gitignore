@@ -1,0 +1,12 @@
+.env
+*.key
+*credentials*
+*apikey*
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.mp4
+*.mov
+*.avi
+.DS_Store
+Thumbs.db
