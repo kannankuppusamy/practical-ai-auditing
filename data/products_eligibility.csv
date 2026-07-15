@@ -1,0 +1,9 @@
+# SYNTHETIC DATA - FICTIONAL 'Kannan's Virtual Bank'. For AI-audit training only. No real persons or accounts.
+product_id,product_name,product_type,min_annual_income_inr,min_credit_band,min_age,notes
+PROD-CC-01,KV Everyday Credit Card,Credit Card,300000,Fair,21,"Entry card, 1% cashback"
+PROD-CC-02,KV Platinum Credit Card,Credit Card,900000,Good,23,Travel & lounge benefits
+PROD-CC-03,KV Signature Credit Card,Credit Card,1800000,Excellent,25,Premium rewards
+PROD-PL-01,KV Personal Loan - Lite,Personal Loan,250000,Fair,21,"Up to 3L, 24 months"
+PROD-PL-02,KV Personal Loan - Plus,Personal Loan,600000,Good,23,"Up to 10L, 60 months"
+PROD-HL-01,KV Home Loan,Home Loan,800000,Good,25,"Up to 75L, secured"
+PROD-AL-01,KV Auto Loan,Auto Loan,400000,Fair,21,"Up to 15L, secured"
